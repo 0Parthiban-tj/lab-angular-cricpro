@@ -1,0 +1,7 @@
+.match {
+	display: grid;
+	grid-template-columns: 7fr 2fr;
+	font-family: 'Times New Roman', Times, serif;
+	margin: 30px;
+	list-style: none;
+}

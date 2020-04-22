@@ -1,0 +1,8 @@
+#title {
+	display: grid;
+	grid-template-columns: 8.5fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	text-decoration: none;
+	list-style: none;
+	padding-bottom: 10px;
+
+}

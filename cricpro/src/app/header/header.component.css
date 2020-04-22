@@ -1,0 +1,15 @@
+header div {
+	width: 1000px;
+	margin: 70px;
+	
+}
+
+header div ul {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	border-top-style: ridge;
+	margin: 0px;
+	height: 35px;
+	background-color: white;
+
+}

@@ -1,0 +1,21 @@
+.players {
+	text-decoration: none;
+	list-style: none;
+	display: grid;
+	grid-template-columns: 2fr 7fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+#two {
+	display: grid;
+	grid-template-columns: 4fr 3fr;
+	text-decoration: none;
+	list-style: none;
+	padding-bottom: 10px;
+
+}
+#by {
+
+	padding-left: 40px;
+}
